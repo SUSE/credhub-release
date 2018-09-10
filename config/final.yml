@@ -1,5 +1,5 @@
 ---
-final_name: credhub
+final_name: credhub-user
 blobstore:
   provider: s3
   options:
